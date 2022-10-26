@@ -21,7 +21,15 @@ The technologies being used are:
     - Logistic Regression Model
     - Support Vector Machines
     - Random Forest Model
-    
+
+3. Database housing
+    - Miscrosoft azure
+    - Microsoft SQL
+
+4. Data scraping
+    - Kaggle
+    - Zomato
+    - yelp    
 
 ## Questions
 The main question we want to answer is:
