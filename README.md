@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Description of the source of data
 ## Yelp.com
 ## kaggle.com
@@ -10,5 +9,3 @@
 ## We are using Microsoft Azure Plateform as a cloud service, in this we created Microsoft SQL Server, connect this with SQL Server Managment Studio for importing data files.
 ![RDBMS](https://github.com/ahwinkelman/Group-4-Final/blob/Rubina-Shrivastava/RDMS_Philadephis.png)
 =======
-# Group-4-Final
->>>>>>> d98fd50e5886eef894f2f51819e624213114b8bf
