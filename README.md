@@ -29,7 +29,11 @@ The technologies being used are:
 4. Data scraping
     - Kaggle
     - Zomato
-    - yelp    
+    - yelp 
+
+5. Database
+    - Microsoft Azure
+    - Microsoft SQL
 
 ## Questions
 The main question we want to answer is:
@@ -37,6 +41,9 @@ The main question we want to answer is:
 A secondary question would be:
     Is the market saturated with similiar restaurants?
 
+Below is the ERD of our data to begin answering our question.
+
+![ERD](https://user-images.githubusercontent.com/105830665/198352988-a8256065-a441-4da5-bbb9-3b8d4ad7d4ed.png)
 
 ## Week 1 Assignments
 1. Presentation: Alexandra Williams
