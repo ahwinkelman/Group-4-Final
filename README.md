@@ -15,7 +15,7 @@ The original data came from  an API call with Yelp along with a GeoJSON file fro
 ## Database
 Below is the ERD of our data to begin answering our question.
 
-![ERD](https://user-images.githubusercontent.com/105830665/198352988-a8256065-a441-4da5-bbb9-3b8d4ad7d4ed.png)
+![ERD](https://github.com/ahwinkelman/Group-4-Final/blob/Rubina_segment_2/ERD.jpg)
 
 ## Data Analysis
 ### Machine Learning Model
