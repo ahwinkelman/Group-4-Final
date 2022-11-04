@@ -62,9 +62,9 @@ We have two options for our dashboard currently. The tools we are using are:
 - html
 - tableau
 
-Below is the initial diagram of our dashboard.
+The initial diagram of our dashboard can be seen [at this link](https://docs.google.com/presentation/d/1TPwOvrK6srMwe0rM1d0jOTkxuJIsCtjIaAan5sn0sF8/edit?usp=sharing)
 
-![Dashboard](https://docs.google.com/presentation/d/1TPwOvrK6srMwe0rM1d0jOTkxuJIsCtjIaAan5sn0sF8/edit?usp=sharing)
+
 
 ## Technologies
 The technologies being used are:
