@@ -11,6 +11,18 @@ The data we are using has restaurants locations, ratings , and pricing from all 
 The original data came from  an API call with Yelp along with a GeoJSON file from the city of San Francisco's government data website. 
 
 ## Data Exploration
+After finding our data set, we wanted to see the make up of our data.
+The data was processed to display several graphs to show:
+- ratings by names
+- Reviews by names
+- the number of restaurants for each rating
+
+![Image 1](https://user-images.githubusercontent.com/105830665/199869754-4154c899-7f55-41e8-9acb-99f0b1610b81.png)
+
+We also called the following:
+- The columns in the data 
+- The count for the rows
+- The Data types for the columns 
 
 ## Database
 Below is the ERD of our data to begin answering our question.
@@ -46,9 +58,13 @@ We chose to use the logistic regression model provided by sklearn.  Since our ov
 
 
 ### Dashboard
+We have two options for our dashboard currently. The tools we are using are:
+- html
+- tableau
+
 Below is the initial diagram of our dashboard.
 
-![Dashboard](link)
+![Dashboard](https://docs.google.com/presentation/d/1TPwOvrK6srMwe0rM1d0jOTkxuJIsCtjIaAan5sn0sF8/edit?usp=sharing)
 
 ## Technologies
 The technologies being used are:
