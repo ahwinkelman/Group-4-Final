@@ -27,7 +27,7 @@ We also called the following:
 ## Database
 Below is the ERD of our data to begin answering our question.
 
-![ERD](https://github.com/ahwinkelman/Group-4-Final/blob/Rubina_segment_2/ERD.jpg)
+![ERD](https://github.com/ahwinkelman/Group-4-Final/blob/Rubina_segment_3/ERD1.png)
 
 ## Data Analysis
 ### Machine Learning Model
