@@ -69,7 +69,9 @@ The current accuracy score of the logistic regression model is 94.9%.
 Yes, the model predicts with a 94.9% accuracy level that our proposed Thai-Indian fusion restaurant will achieve a 4-star rating or higher.
 
 ### Dashboard
-We have two options for our dashboard currently. The tools we are using are:
+We are using both JavaScript and Tableau for our dashboard. The JavaScript will serve as the information and starter page for our dashboard. There will be a link on the page that connects to the Tableau site. The Tableau Story will have the graphs and visualizations for our data. 
+
+The tools we are using are:
 - html
 - tableau
 
@@ -95,10 +97,6 @@ The technologies being used are:
     - Kaggle
     - Zomato
     - yelp 
-
-5. Database
-    - Microsoft Azure
-    - Microsoft SQL
 
 ## Questions
 The main question we want to answer is:
