@@ -1,0 +1,37 @@
+.jumbotron { 
+    background: url(https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?cs=srgb&dl=pexels-chan-walrus-941861.jpg&fm=jpg&_gl=1*ra1hu6*_ga*MTAzNzYxOTg2LjE2NjgxMjU1MDA.*_ga_8JE65Q40S6*MTY2ODEyNTUwMi4xLjAuMTY2ODEyNTUwMi4wLjAuMA..); 
+    /* height: 300px; */
+    background-repeat: no-repeat; 
+    background-size:  100% 100%; 
+  }
+
+.dropdown {
+    display: inline-block;
+    position: relative;
+  }
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    width: 100%;
+    overflow: auto;
+    box-shadow: 0px 10px 10px 0px rgba(0,0,0,0.4);
+  }
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  .dropdown-content a {
+    display: block;
+    color: #000000;
+    padding: 5px;
+    text-decoration: none;
+  }
+  .dropdown-content a:hover {
+    color: #FFFFFF;
+    background-color: #00A4BD;
+  }
+
+  /* img {
+    width: 200px;
+    height: 300px;
+    object-fit: scale-down;
+  } */

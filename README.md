@@ -69,13 +69,9 @@ The current accuracy score of the logistic regression model is 94.9%.
 Yes, the model predicts with a 94.9% accuracy level that our proposed Thai-Indian fusion restaurant will achieve a 4-star rating or higher.
 
 ### Dashboard
-We are using both JavaScript and Tableau for our dashboard. The JavaScript will serve as the information and starter page for our dashboard. There will be a link on the page that connects to the Tableau site. The Tableau Story will have the graphs and visualizations for our data. 
+We are using both JavaScript and Tableau for our dashboard. The JavaScript will serve as the information and starter page for our dashboard. Several drop menus have been created to navigate to different images and websites. This allows for user interactivity on the html page. One specific drop menu links to the second dashboard, Tableau. The Tableau Story will have the graphs and visualizations for our data. This Story breaks down the restaurant makeup in the San Francisco market. The charts support the accuracy of the machine learning by displaying the rating in the area. 
 
-The tools we are using are:
-- html
-- tableau
-
-The initial diagram of our dashboard can be seen [at this link](https://docs.google.com/presentation/d/1TPwOvrK6srMwe0rM1d0jOTkxuJIsCtjIaAan5sn0sF8/edit?usp=sharing)
+The tableau dashboard can be seen [at this link]https://public.tableau.com/app/profile/andrew.winkelman6563/viz/GoodEatsGroup4/Group4GoodEats?publish=yes
 
 
 
@@ -98,6 +94,9 @@ The technologies being used are:
     - Zomato
     - yelp 
 
+5. Dashboard
+    - JavaScript
+    - Tableau
 ## Questions
 The main question we want to answer is:
     Will a new Thai-Indian fusion restaurant be successful in the San Francisco area?
@@ -124,9 +123,11 @@ A secondary question would be:
 4. Database: Rubina Shrivastava
 5. Dashboard: Alexandra Williams / Andrew Winkelman
 
-## Communication
-The team has arranged to do conference calls on zoom.
-The team is also using slack to have a quick reach out for any immdediate needs or concerns. 
-
+## Week 4: 
+1. Presentation: Andrew Winkelman, Rubina Shrivastava, Michelle Ewers, Alexandra Williams
+2. GitHub: Alexandra Williams
+3. Maching Learning Model: Michelle Ewers
+4. Database: Rubina Shrivastava
+5. Dashboard: Alexandra Williams / Andrew Winkelman
 
 
