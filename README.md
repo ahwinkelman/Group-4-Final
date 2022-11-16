@@ -68,12 +68,14 @@ The current accuracy score of the logistic regression model is 94.9%.
 ##### Does the model answer the project question?
 Yes, the model predicts with a 94.9% accuracy level that our proposed Thai-Indian fusion restaurant will achieve a 4-star rating or higher.
 
-### Dashboard
+### Dashboard and Presentation
 We are using both JavaScript and Tableau for our dashboard. The JavaScript will serve as the information and starter page for our dashboard. Several drop menus have been created to navigate to different images and websites. This allows for user interactivity on the html page. One specific drop menu links to the second dashboard, Tableau. The Tableau Story will have the graphs and visualizations for our data. This Story breaks down the restaurant makeup in the San Francisco market. The charts support the accuracy of the machine learning by displaying the rating in the area. 
 
 The Tableau dashboard can be seen [at this link](https://public.tableau.com/app/profile/andrew.winkelman6563/viz/GoodEatsGroup4/Group4GoodEats?publish=yes)
 
+To  accompany our dashboards, a presentation was created in Google slides. This presentation gives a brief but descriptive outlook of the project.
 
+The Google slide can accessed using [this link](https://docs.google.com/presentation/d/1tSIwctv72gKRzsV73ysdYYjovjgFx2XRRpjAAnh7xwU/edit#slide=id.p)
 
 ## Technologies
 The technologies being used are:
